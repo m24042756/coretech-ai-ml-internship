@@ -1,4 +1,5 @@
-# coretech-ai-ml-internship
+# CoreTech AI/ML Internship Repository
+
 CoreTech AI/ML Internship Task 01 Repository
 # Screenshots
 
@@ -10,4 +11,59 @@ CoreTech AI/ML Internship Task 01 Repository
 ## Kaggle Profile
 <img width="947" height="373" alt="image" src="https://github.com/user-attachments/assets/fe71a0bd-10fe-484d-8a89-2cbfc3150220" />
 
+## 👤 About Me
+Name: Your Name  
+Education: Your Degree  
+City: Karachi  
+Skills: Python, Pandas, NumPy, Machine Learning Basics  
+
+---
+
+## 📌 Overview
+This repository contains all AI/ML internship tasks including Python basics and data preprocessing.
+
+---
+
+## 📘 Task 01 - Setup & Introduction
+- GitHub, Colab, Kaggle setup completed
+- Learned AI, ML, DL concepts
+- Created introductory notebook
+
+---
+
+## 📗 Task 02 - Python Basics
+Covered:
+✔ Variables & Data Types  
+✔ Loops & Conditions  
+✔ Functions  
+✔ NumPy & Pandas  
+✔ Dataset creation using dictionary  
+
+Outcome:
+Built strong Python foundation for ML
+
+---
+
+## 📙 Task 03 - Data Preprocessing
+Covered:
+✔ Missing values handling  
+✔ Encoding categorical data  
+✔ Feature scaling  
+✔ Data cleaning  
+✔ Dataset transformation  
+
+Outcome:
+Prepared raw dataset into machine learning ready format
+
+---
+
+## 🛠 Tools Used
+Python, Google Colab, Pandas, NumPy, Scikit-learn, GitHub
+
+---
+
+## 🚀 Learning Outcome
+- Learned end-to-end ML pipeline basics
+- Understood real-world dataset preprocessing
+- Improved Python programming skills
 
