@@ -60,6 +60,29 @@ Prepared raw dataset into machine learning ready format
 ## 🛠 Tools Used
 Python, Google Colab, Pandas, NumPy, Scikit-learn, GitHub
 
+## Task 04 - Regression Model
+
+Built a machine learning model to predict project budget.
+
+Steps:
+
+Created and loaded dataset
+Selected features and target variable
+Split data into training and testing sets (80/20)
+Trained Linear Regression model
+Evaluated using MAE, MSE, RMSE and R² Score
+Trained Ridge Regression model
+Compared model performance
+Visualized Actual vs Predicted values using Matplotlib
+Tools and Libraries
+Python
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Google Colab
+GitHub
+
 ---
 
 ## 🚀 Learning Outcome
