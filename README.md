@@ -90,3 +90,21 @@ GitHub
 - Understood real-world dataset preprocessing
 - Improved Python programming skills
 
+## Task 05 - Classification Models
+- Logistic Regression
+- Decision Tree Classifier
+- Random Forest Classifier
+- Accuracy Score Evaluation
+- Confusion Matrix
+- Classification Report
+- Heatmap Visualization
+- Best Model Selection and Analysis
+
+## Task 06 - Clustering Analysis
+- K-Means Clustering
+- Elbow Method
+- Cluster Visualization
+- Hierarchical Clustering
+- Dendrogram
+- Cluster Comparison
+- Business Insights
