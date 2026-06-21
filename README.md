@@ -108,3 +108,69 @@ GitHub
 - Dendrogram
 - Cluster Comparison
 - Business Insights
+
+- --------------------------------------------------
+Task 07 - Natural Language Processing (NLP)
+--------------------------------------------------
+
+• Created a feedback dataset (coretech_feedback.csv) with 30+ feedback records.
+• Performed text cleaning:
+  - Lowercasing
+  - Punctuation removal
+  - Stopword removal
+• Applied tokenization and stemming.
+• Converted text into numerical features using TF-IDF Vectorization.
+• Visualized sentiment distribution using a bar chart.
+• Generated a Word Cloud of common words.
+• Built a Naive Bayes sentiment classification model.
+• Evaluated model performance using accuracy and classification report.
+
+--------------------------------------------------
+Task 08 - Artificial Neural Network (ANN)
+--------------------------------------------------
+
+• Built an Artificial Neural Network using TensorFlow/Keras.
+• Performed data preprocessing and feature selection.
+• Split data into training and testing sets.
+• Created a Sequential ANN model.
+• Added two hidden layers with ReLU activation.
+• Used Sigmoid activation in the output layer.
+• Trained the model and monitored performance.
+• Plotted training and validation accuracy curves.
+• Plotted training and validation loss curves.
+• Evaluated model performance on test data.
+• Compared ANN results with traditional Machine Learning models.
+
+--------------------------------------------------
+Task 09 - Model Optimization and Hyperparameter Tuning
+--------------------------------------------------
+
+• Built a baseline Random Forest model.
+• Applied GridSearchCV for hyperparameter tuning.
+• Performed K-Fold Cross Validation.
+• Identified best hyperparameters.
+• Conducted Feature Importance Analysis.
+• Generated Feature Importance visualization.
+• Plotted Learning Curves.
+• Performed Overfitting and Underfitting Analysis.
+• Compared model performance before and after optimization.
+• Improved model reliability and performance through tuning.
+
+--------------------------------------------------
+Tools and Libraries Used
+--------------------------------------------------
+
+• Python
+• Pandas
+• NumPy
+• Matplotlib
+• Scikit-learn
+• TensorFlow / Keras
+• NLTK
+• WordCloud
+
+--------------------------------------------------
+Conclusion
+--------------------------------------------------
+
+These tasks demonstrate practical implementation of Natural Language Processing, Artificial Neural Networks, and Machine Learning Model Optimization techniques using Python and popular AI/ML libraries.
