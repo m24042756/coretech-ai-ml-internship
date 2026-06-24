@@ -167,10 +167,21 @@ Tools and Libraries Used
 • Scikit-learn
 • TensorFlow / Keras
 • NLTK
+
+
+## Task 10 - Streamlit Deployment
+
+• Trained Random Forest Model
+• Saved Model using Joblib
+• Created Streamlit Web Application
+• User Input Form
+• Prediction Button
+• Output Display
+• Model Explanation
+• Uploaded app.py
+• Uploaded requirements.txt
+• Uploaded model.pkl
 • WordCloud
 
---------------------------------------------------
-Conclusion
---------------------------------------------------
 
 These tasks demonstrate practical implementation of Natural Language Processing, Artificial Neural Networks, and Machine Learning Model Optimization techniques using Python and popular AI/ML libraries.
