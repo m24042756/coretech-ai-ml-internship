@@ -1,0 +1,31 @@
+Feedback_ID,Client_Name,Service,Feedback_Text,Rating,Sentiment
+1,Ali Corp,Web Development,Excellent service and support,5,Positive
+2,Tech Solutions,Mobile App,Average experience,3,Neutral
+3,ABC Ltd,Data Analytics,Poor communication,2,Negative
+4,Alpha Tech,Web Development,Very satisfied with results,5,Positive
+5,Beta Systems,Cloud Service,Service was okay,3,Neutral
+6,Gamma Ltd,Mobile App,Project delivered on time,5,Positive
+7,Delta Corp,Data Analytics,Not happy with support,2,Negative
+8,Epsilon Tech,Web Development,Excellent team work,5,Positive
+9,Zeta Ltd,Cloud Service,Average quality service,3,Neutral
+10,Eta Corp,Mobile App,Faced many issues,1,Negative
+11,Theta Tech,Web Development,Outstanding experience,5,Positive
+12,Iota Ltd,Cloud Service,Good support team,4,Positive
+13,Kappa Corp,Data Analytics,Needs improvement,2,Negative
+14,Lambda Tech,Mobile App,Satisfactory work,3,Neutral
+15,Mu Ltd,Web Development,Very professional service,5,Positive
+16,Nu Corp,Cloud Service,Delayed responses,2,Negative
+17,Xi Tech,Data Analytics,Good communication,4,Positive
+18,Omicron Ltd,Mobile App,Average support,3,Neutral
+19,Pi Corp,Web Development,Excellent quality,5,Positive
+20,Rho Tech,Cloud Service,Unsatisfactory performance,1,Negative
+21,Sigma Ltd,Data Analytics,Very useful insights,5,Positive
+22,Tau Corp,Mobile App,Service was fine,3,Neutral
+23,Upsilon Tech,Web Development,Poor project management,2,Negative
+24,Phi Ltd,Cloud Service,Highly recommended,5,Positive
+25,Chi Corp,Data Analytics,Good experience overall,4,Positive
+26,Psi Tech,Mobile App,Average delivery,3,Neutral
+27,Omega Ltd,Web Development,Many unresolved issues,1,Negative
+28,Prime Corp,Cloud Service,Excellent customer support,5,Positive
+29,Nova Tech,Data Analytics,Work quality was average,3,Neutral
+30,Future Ltd,Mobile App,Very disappointing service,1,Negative
